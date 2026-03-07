@@ -1,0 +1,15 @@
+{
+  "version": "0.2.2",
+  "name": "igatera",
+  "path": "/Users/seemanthrajukurapati/Documents/development/igatera",
+  "stats": {
+    "files": 63,
+    "symbols": 304,
+    "relationships": 1474,
+    "clusters": 24,
+    "flows": 3,
+    "dead_code": 43,
+    "coupled_pairs": 0
+  },
+  "last_indexed_at": "2026-02-23T17:35:38.229459+00:00"
+}

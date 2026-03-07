@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(psql:*)",
+      "Bash(docker compose down:*)",
+      "Bash(docker compose up:*)"
+    ]
+  },
+  "axon": {
+    "command": "axon",
+    "args": [
+      "serve",
+      "--watch"
+    ]
+  }
+}
